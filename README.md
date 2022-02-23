@@ -1,6 +1,6 @@
 I’m a student in my 3rd year of Computer Science Engineering
 
-I’m currently learning about software development and cyber security
+Currently learning about software development and cyber security
 
 You can reach out to me on my email address: naachiketpant88@gmail.com
 
